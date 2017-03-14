@@ -1,5 +1,7 @@
 # alp-auth [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alpjs/alp-auth.svg)](https://greenkeeper.io/)
+
 authentication with alp
 
 [![Dependency ci Status][dependencyci-image]][dependencyci-url]
